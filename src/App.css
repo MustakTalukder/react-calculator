@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+.root-div{
+  text-align: center;
+  background-color: blue;
+}
+.calulator-body {
+  float: left;
+  width: 400px;
+  margin: auto;
+  border: 10px solid chocolate;
+  margin-top: 75px;
+  border-radius: 20px;
+  background-color: rgb(240, 121, 42);
+  margin-left: 20%;
+  
+}
+
+.result {
+  height: 100px;
+  background-color: green;
+  width: 100%;
+  border-radius: 20px 20px 0px 0px;
+}
+.result h1{
+  font-size: 50px;
+
+  color: white;
+  
+  padding-top: 22px;
+  
+  text-align: right;
+}
+.buttons {
+  display: block;
+  background-color: palegreen;
+}
+.buttons button{
+  width: 22%;
+
+  height: 60px;
+  
+  font-size: 30px;
+  
+  border-radius: 13px;
+  
+  margin: 2px;
+  
+  background-color: darkgreen;
+  
+  color: white;
+  
+  font-weight: bold;
+}
